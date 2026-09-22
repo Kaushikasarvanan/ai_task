@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Rahul",
+        "department": "CSE",
+        "attendance": 82,
+        "internal_mark": 76
+    },
+    {
+        "name": "Priya",
+        "department": "ECE",
+        "attendance": 91,
+        "internal_mark": 88
+    },
+    {
+        "name": "Arun",
+        "department": "IT",
+        "attendance": 75,
+        "internal_mark": 69
+    }
+]
